@@ -2,7 +2,7 @@
 
 * Студент: [Анна Болотова](https://up.htmlacademy.ru/htmlcss/40/user/2506555).
 * Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
-
+* Сайт: [Мой проект "Седона"](https://doc-anna.github.io/2506555-sedona-40/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
