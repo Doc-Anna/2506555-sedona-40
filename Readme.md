@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Анна Б](https://up.htmlacademy.ru/htmlcss/40/user/2506555).
-* Наставник: `Неизвестно`.
+* Студент: [Анна Болотова](https://up.htmlacademy.ru/htmlcss/40/user/2506555).
+* Наставник: [Николай Шабалин](https://htmlacademy.ru/profile/id1057153).
 
 ---
 
